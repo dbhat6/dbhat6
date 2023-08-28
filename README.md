@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-The langugages used generally by my projects:
+The languages used generally by my projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbhat6&layout=compact&theme=tokyonight)
 
-### Socials :
+## Socials :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dbhat6">
@@ -32,3 +32,17 @@ The langugages used generally by my projects:
     <img src="assets/icons8-twitter-240.png" alt="Twitter Badge" width="100"/>
   </a>
 </div>
+
+## Repos
+
+[![Recipes Server](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-server&show_owner=true)](https://github.com/dbhat6/my-recipes-server)
+
+[![Recipes Client](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-client&show_owner=true)](https://github.com/dbhat6/my-recipes-client)
+
+[![MyiOSApp](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=MyiOSApp&show_owner=true)](https://github.com/dbhat6/MyiOSApp)
+
+[![Personal Diary](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=personal-diary&show_owner=true)](https://github.com/dbhat6/personal-diary)
+
+[![ELB Health Poller](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=elb-health-poller&show_owner=true)](https://github.com/dbhat6/elb-health-poller)
+
+[![Performance Testing Suite](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=performance-testing-suite&show_owner=true)](https://github.com/dbhat6/performance-testing-suite)
