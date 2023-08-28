@@ -26,4 +26,16 @@ Here are some ideas to get you started:
 <a href=”https://www.google.com”><img src="assets/icons8-instagram-480.png" title="Instagram" alt="" width="100"/></a>
 </p>
 
+<div id="badges">
+  <a href="https://www.google.com">
+    <img src="assets/icons8-instagram-480.png" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 [![Alt text](assets/icons8-instagram-480.png)](https://www.google.com)
