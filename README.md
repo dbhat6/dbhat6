@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.google.com">
-    <img src="assets/icons8-instagram-480.png" alt="LinkedIn Badge"/>
+    <img src="assets/icons8-instagram-480.png" alt="LinkedIn Badge" width="100"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
