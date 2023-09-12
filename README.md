@@ -35,6 +35,8 @@ The languages used generally by my projects:
 
 ## Repos
 
+[![YaavArea Server](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=YaavArea&show_owner=true)](https://github.com/dbhat6/YaavArea)
+
 [![Recipes Server](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-server&show_owner=true)](https://github.com/dbhat6/my-recipes-server)
 
 [![Recipes Client](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-client&show_owner=true)](https://github.com/dbhat6/my-recipes-client)
