@@ -17,34 +17,47 @@ Here are some ideas to get you started:
 
 The languages used generally by my projects:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbhat6&layout=compact&theme=tokyonight)
+<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
 
 ## Socials :
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/dbhat6">
-    <img src="assets/icons8-linkedin-240.png" alt="LinkedIn Badge" width="100"/>
-  </a>
-  <a href="https://www.instagram.com/deepak._.bhat">
-    <img src="assets/icons8-instagram-480.png" alt="Instagram Badge" width="100"/>
-  </a>
-  <a href="https://twitter.com/SirIThinkALot">
-    <img src="assets/icons8-twitter-240.png" alt="Twitter Badge" width="100"/>
-  </a>
-</div>
+<p align="left">
+
+<a href="https://www.github.com/dbhat6" target="blank"><img align="center" src="./assets/github.svg" alt="https://www.github.com/dbhat6" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deepak._.bhat" target="blank"><img align="center" src="./assets/instagram.svg" alt="https://www.instagram.com/deepak._.bhat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dbhat6" target="blank"><img align="center" src="./assets/linked-in-alt.svg" alt="https://www.linkedin.com/in/dbhat6" height="30" width="40" /></a>
+</p>
 
 ## Repos
 
-[![YaavArea Server](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=YaavArea&show_owner=true)](https://github.com/dbhat6/YaavArea)
+<ul>
+<li>
+<a href="https://github.com/dbhat6/YaavArea" target="blank"><h4>YaavArea</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/my-recipes-server" target="blank"><h4>My Recipes Server</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/my-recipes-client" target="blank"><h4>My Recipes Client</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/MyiOSApp" target="blank"><h4>MyiOSApp</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/personal-diary" target="blank"><h4>Personal Diary</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/elb-health-poller" target="blank"><h4>ELB Health Poller</h4></a>
+</li>
+<li>
+<a href="https://github.com/dbhat6/performance-testing-suite" target="blank"><h4>Performance Testing Suite</h4></a>
+</li>
+</ul>
 
-[![Recipes Server](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-server&show_owner=true)](https://github.com/dbhat6/my-recipes-server)
+## Skills
 
-[![Recipes Client](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=my-recipes-client&show_owner=true)](https://github.com/dbhat6/my-recipes-client)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-[![MyiOSApp](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=MyiOSApp&show_owner=true)](https://github.com/dbhat6/MyiOSApp)
-
-[![Personal Diary](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=personal-diary&show_owner=true)](https://github.com/dbhat6/personal-diary)
-
-[![ELB Health Poller](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=elb-health-poller&show_owner=true)](https://github.com/dbhat6/elb-health-poller)
-
-[![Performance Testing Suite](https://github-readme-stats.vercel.app/api/pin/?username=dbhat6&repo=performance-testing-suite&show_owner=true)](https://github.com/dbhat6/performance-testing-suite)
