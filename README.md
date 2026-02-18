@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 The languages used generally by my projects:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="./assets/java-svgrepo-com.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="./assets/javascript-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="./assets/typescript-svgrepo-com.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="./assets/linux-svgrepo-com.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img align="center" src="./assets/java-svgrepo-com.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img align="center" src="./assets/javascript-svgrepo-com.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img align="center" src="./assets/typescript-svgrepo-com.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img align="center" src="./assets/linux-svgrepo-com.svg" alt="linux" width="40" height="40"/> </a>
 
 ## Socials :
 
